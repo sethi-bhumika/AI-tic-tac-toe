@@ -1,5 +1,5 @@
 # AI-tic-tac-toe
-Implementation of minimax algorithm for an unbeatable tic-tac-toe game using OOP constructs
+
 TIC-TAC-TOE IN JAVA USING OOPs
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
